@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clase1</string>
+
+    <string-array name="listasecciones">
+        <item>Preescolar</item>
+        <item>Primero</item>
+        <item>Segundo</item>
+    </string-array>
+
+    <string-array name="listaareas">
+        <item>Los colores</item>
+        <item>Los números</item>
+        <item>Los Recreo</item>
+    </string-array>
+
+
+</resources>
